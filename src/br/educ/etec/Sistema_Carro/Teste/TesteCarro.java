@@ -14,7 +14,7 @@ public class TesteCarro {
     public static void main(String[] args) {
         Carro Koenigsegg = new Carro();
         Koenigsegg.setMarca("Koenigsegg");
-        Koenigsegg.setAno(2332);
+        Koenigsegg.setAno(2026);
         Koenigsegg.setCor("vermelho");
     System.out.println("A marca do carro é " + Koenigsegg.getMarca() );
     System.out.println("O ano do carro é "+  Koenigsegg.getAno() );

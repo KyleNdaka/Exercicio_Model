@@ -16,25 +16,25 @@ public class Carro {
 
     // Marca
     public String getMarca() {
-        return marca;
+       return marca;
     }
 
     public void setMarca(String marca) {
-        this.marca = marca;
+       this.marca = marca;
     }
 
     // ano
     public int getAno() {
-        return ano;
+       return ano;
     }
 
     public void setAno(int ano) {
-        this.ano = ano;
+       this.ano = ano;
     }
 
     // cor 
     public String getCor() {
-        return cor;
+       return cor;
     }
     
     public void setCor(String cor) {
